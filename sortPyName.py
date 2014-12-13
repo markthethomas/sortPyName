@@ -16,8 +16,4 @@ def answer(names):
     return finalList[::-1]
 
 
-answer(["abcdefg", "vi"])
-
-
-
 
